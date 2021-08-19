@@ -1,0 +1,1 @@
+web: java -jar -Dspring.profiles.active=prod build/libs/marrugo-java-1.0.0.jar
